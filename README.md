@@ -1,6 +1,6 @@
 # Google Drive client
 
-It is a simple Google Drive client for accessing files and shared drives deployed in GCP Cloud Run.
+It is a simple Google Drive client for accessing files and shared drives. Deployed in GCP Cloud Run.
  
 
 ## Run
